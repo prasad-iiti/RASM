@@ -600,6 +600,17 @@ Future research directions include:
 
 If you use RASM in your research, please cite:
 
+@article{KANHEGAONKAR2026312,
+title = {RASM: Relationship-aware augmentation selection through structural redundancy modeling},
+journal = {Pattern Recognition Letters},
+volume = {210},
+pages = {312-318},
+year = {2026},
+issn = {0167-8655},
+doi = {10.1016/j.patrec.2026.10.017},
+author = {Prasad Kanhegaonkar and Surya Prakash},
+}
+
 ---
 
 # 📖 Related Work
